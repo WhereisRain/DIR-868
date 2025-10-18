@@ -12,7 +12,7 @@ On the /soap.cgi HTTP POST message on 49152 port, with the service GET parameter
 
 The similar vulnerability already exists with CVE-2018-6530&CVE-2018-20114.
 
-![image](https://github.com/WhereisRain/dir-815/blob/main/somecode.jpg)
+![image](https://github.com/WhereisRain/DIR-868/blob/main/3.jpg)
 
 With | string, the device can be exploited, too.
 
